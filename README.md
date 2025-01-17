@@ -4,18 +4,26 @@ Titel: Datenschutzerklärung für den GPT „Beauty-Salon-Berater“
 Stand: 17.01.2025
 
 Erhobene Daten:
-Der GPT analysiert die Fragen der Nutzer, um passende Antworten zu generieren. Bei Nutzung der Funktion „PubMed-Suche“ werden die folgenden Daten an die PubMed-API weitergeleitet:
 
-Die eingegebene Nutzerfrage (zur Ableitung von Suchbegriffen).
+Bei der Nutzung der wissenschaftlichen Suchfunktionen erhebt der GPT die vom Nutzer eingegebene Frage und leitet sie an die entsprechenden Dienste (PubMed, Google Scholar, SpringerLink) weiter.
+Verarbeitete Informationen:
+Nutzeranfrage (Frage).
 Abgeleitete Suchbegriffe.
 Zweck der Datenverarbeitung:
-Diese Daten werden ausschließlich verwendet, um relevante wissenschaftliche Studien aus der PubMed-Datenbank zu finden und bereitzustellen.
+Die erhobenen Daten dienen ausschließlich dazu, relevante wissenschaftliche Studien aus den folgenden Datenbanken bereitzustellen:
 
-Keine Speicherung:
-Es werden keine Daten des Nutzers dauerhaft gespeichert oder für andere Zwecke verwendet.
-
+PubMed/MEDLINE
+Google Scholar
+SpringerLink
 Drittanbieter:
-Für die PubMed-Suche wird die API von PubMed/MEDLINE (National Center for Biotechnology Information, NCBI) verwendet. Es gelten die Datenschutzrichtlinien von PubMed: https://www.ncbi.nlm.nih.gov/home/privacy/.
 
+PubMed/MEDLINE: Datenschutzerklärung unter https://www.ncbi.nlm.nih.gov/home/privacy/.
+Google Scholar: Datenschutzerklärung unter https://policies.google.com/privacy.
+SpringerLink: Datenschutzerklärung unter https://www.springer.com/gp/privacy-policy.
+Keine Speicherung:
+
+Es erfolgt keine Speicherung der Daten durch den GPT oder den Betreiber.
 Datensicherheit:
-Alle Anfragen und Antworten werden verschlüsselt übertragen. Es erfolgt keine Weitergabe von Daten an unbefugte Dritte.
+
+Alle Anfragen und Antworten werden verschlüsselt übertragen.
+Es erfolgt keine Weitergabe an unbefugte Dritte.
