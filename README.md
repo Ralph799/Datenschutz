@@ -1,2 +1,2 @@
-# Datenschutzerklaerung-Recherche
+# Datenschutz
 Datenschutzerklärung zur Recherche im Web
